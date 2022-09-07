@@ -1,4 +1,4 @@
-# giraffe_corse
+# giraffe_course
 ruby video course learning
 
 First 1, 2, 3 stages about Ruby installation and setup
