@@ -13,3 +13,5 @@ Lesson_006 Variables
 
 Lesson_007 Data Types
 
+Lesson_008 Working with strings
+
