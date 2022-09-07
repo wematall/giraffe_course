@@ -15,3 +15,5 @@ Lesson_007 Data Types
 
 Lesson_008 Working with strings
 
+Lesson_009 Math and Numbers
+
