@@ -11,3 +11,5 @@ Lesson_005 Drawing a Shape
 
 Lesson_006 Variables
 
+Lesson_007 Data Types
+
