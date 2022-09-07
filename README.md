@@ -1,2 +1,2 @@
 # giraffe_corse
-ruby video course
+ruby video course learning
