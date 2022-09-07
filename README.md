@@ -8,3 +8,4 @@ Lesson_004 Hello World/Setup
 
 Lesson_005 Drawing a Shape
 
+Lesson_006 Variables
