@@ -23,3 +23,7 @@ Lesson_011 Simple calculator
 
 Lesson_012 Building a mad libs game
 
+Lesson_013 Arrays
+
+Lesson_014 Hashes
+
