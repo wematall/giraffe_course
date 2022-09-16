@@ -62,3 +62,5 @@ Lesson_030 Initialize method
 Lesson_031 Object Methods
 
 Lesson_032 Building a Quiz
+
+Lesson_033 Inheritance
