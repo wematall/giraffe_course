@@ -39,7 +39,8 @@ Lesson_019 Building a Better Calculator
 
 Lesson_020 Case Statement
 
-Lesson_021 while loop
+Lesson_021 While Loops
 
-Lesson_022 Building a Guessing game
+Lesson_022 Building a guessing game
 
+Lesson_023 For loops
