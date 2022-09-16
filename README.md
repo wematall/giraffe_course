@@ -44,3 +44,5 @@ Lesson_021 While Loops
 Lesson_022 Building a guessing game
 
 Lesson_023 For loops
+
+Lesson_024 Exponent Method
